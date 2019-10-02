@@ -1,3 +1,9 @@
-###Im trying to to a cool site for my notes
+# Im
+## trying
+### to-do
+#### a cool
+##### site 
 
-$x = 3$
+%24+x++%3D+3%24
+
+
